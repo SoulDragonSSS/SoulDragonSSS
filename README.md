@@ -1,4 +1,4 @@
-### ¡Hola! Soy Diego Camacho <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<h1 align="center">¡Hola! Soy Diego Camacho 👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=EE6DFF&center=true&vCenter=true&width=500&lines=En+la+ruta+de+convertirme+en+un+mejor+ingeniero+en+sistemas.)](https://git.io/typing-svg)
 
