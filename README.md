@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! Soy Diego Camacho 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=EE6DFF&center=true&vCenter=true&width=500&lines=En+la+1546+ruta+de+convertirme+en+un+mejor+ingeniero+en+sistemas.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=EE6DFF&center=true&vCenter=true&width=900&lines=En+la+ruta+de+convertirme+en+un+mejor+ingeniero+en+sistemas.)](https://git.io/typing-svg)
 
 Comencé mi trayectoria profesional como programador hace más de 3 años de experiencia, enfocado tanto en back-end como en front-end. Además de mi experiencia en desarrollo web, también tengo conocimientos en el desarrollo de aplicaciones móviles y software de escritorio.
 
